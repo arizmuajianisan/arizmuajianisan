@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arizmuajianisan
-- 👀 I’m interested in iot development, communicating between PLC data to visualize over web internet
-- 🌱 I’m currently learning php, laravel, vue.js
+- 👀 I’m interested in iot development
+- 🌱 I’m currently learning php, laravel, vue.js, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arizmuajianisan@gmail.com
 
