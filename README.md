@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arizmuajianisan
-- 👀 I’m interested in iot development
+- 👀 I’m interested in iot development, automation, and data science
 - 🌱 I’m currently learning php, laravel, vue.js, python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on project iot or automation system
 - 📫 How to reach me arizmuajianisan@gmail.com
 
 <!---
